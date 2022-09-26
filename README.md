@@ -4,24 +4,28 @@
 - 🌱 Sei o básico sobre desenvolvimento web (HTML, CSS e Javascript) futuramente estudarei React, PHP e MySQL.
 - 💬 Converse comigo pelo Instagram: @johnwesleyrvaz
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
+<div align="left">
+  <a href="https://github.com/johnwesley14">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnwesley14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley14&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div><br>
+
+  <img align="center" alt="John-Js" height="90" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="John-React" height="90" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="John-HTML" height="90" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="John-CSS" height="90" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
-  <img align="right" alt="John-Picture" height="150" src="https://github.com/johnwesley14.png"  style="border-radius: 50px">
+
+  <img align="right" alt="John-Picture" height="90" src="https://github.com/johnwesley14.png">
+
+
 </div>
 
 <div>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/johnwesley14/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
