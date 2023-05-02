@@ -1,7 +1,7 @@
 ### Hello World! 
 
-- 🔭 Atualmente estou no primeiro ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
-- 🌱 Sei o básico sobre desenvolvimento web (HTML, CSS e Javascript) futuramente estudarei React, PHP e MySQL.
+- 🔭 Atualmente (2023) estou no segundo ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
+- 🌱 Sei a base do desenvolvimento web (HTML, CSS e Javascript), além de buscar me especializar em React e React Native.
 - 💬 Converse comigo pelo Instagram: @johnwesleyrvaz
 
 <div align="left">
