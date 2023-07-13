@@ -1,24 +1,36 @@
 ### Hello World! 
 
-- 🔭 Atualmente (2023) estou no segundo ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
-- 🌱 Sei a base do desenvolvimento web (HTML, CSS e Javascript), além de buscar me especializar em React e React Native.
-- 💬 Converse comigo pelo Instagram: @johnwesleyrvaz
+<img align="right" alt="John-Picture" height="50" src="https://github.com/johnwesley14.png">
 
-<div align="left">
+- 🔭 Atualmente (2023) estou no segundo ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
+- 🌱 Especialidade em Front end, mas me aprofundando cada vez mais nos estudos de Back-End!
+- 💬 Converse comigo pelo Instagram: [@johnwesleyrvaz](https://www.instagram.com/johnwesleyrvaz/)
+
+<div id="effect" align="left">
   <a href="https://github.com/johnwesley14">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=johnwesley14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley14&layout=compact&langs_count=7&theme=radical"/>
+    <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=johnwesley14&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwesley14&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
+
 
 <div><br>
 
-  <img align="center" alt="John-Js" height="90" width="80"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="John-React" height="90" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="John-HTML" height="90" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="John-CSS" height="90" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+<h1>Tecnologias:</h1>
+<ul>
+  <li><strong>Html</strong></li>
+  <li><strong>Css</strong></li>
+  <li><strong>Javascript</strong></li>
+  <li><strong>C++</strong></li>
+  <li><strong>Java</strong></li>
+  <li><strong>React</strong></li>
+  <li><strong>React Native</strong></li>
+  <li><strong>NodeJS</strong></li>
+  <li><strong>Express</strong></li>
+</ul>
+   
 
-  <img align="right" alt="John-Picture" height="90" src="https://github.com/johnwesley14.png">
+  
 
 
 </div>
@@ -29,3 +41,11 @@
  
 </div>
 
+<style>
+  #effect{
+    margin-left: 25px;
+    
+    
+  }
+  
+</style>
