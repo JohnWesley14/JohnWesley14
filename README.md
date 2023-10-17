@@ -41,11 +41,4 @@
  
 </div>
 
-<style>
-  #effect{
-    margin-left: 25px;
-    
-    
-  }
-  
-</style>
+
