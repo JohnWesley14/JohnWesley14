@@ -2,7 +2,7 @@
 
 <img align="right" alt="John-Picture" height="50" src="https://github.com/johnwesley14.png">
 
-- 🔭 Atualmente (2023) estou no segundo ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
+- 🔭 Atualmente (2024) estou no terceiro ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
 - 🌱 Especialidade em Front end, mas me aprofundando cada vez mais nos estudos de Back-End!
 - 💬 Converse comigo pelo Instagram: [@johnwesleyrvaz](https://www.instagram.com/johnwesleyrvaz/)
 
@@ -26,7 +26,7 @@
   <li><strong>React</strong></li>
   <li><strong>React Native</strong></li>
   <li><strong>NodeJS</strong></li>
-  <li><strong>Express</strong></li>
+  <li><strong>Java Swing</strong></li>
 </ul>
    
 
