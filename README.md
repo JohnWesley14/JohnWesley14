@@ -1,10 +1,11 @@
 ### Hello World! 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3500&pause=400&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Me+chamo+John+Wesley.)](https://git.io/typing-svg)
 <img align="right" alt="John-Picture" height="50" src="https://github.com/johnwesley14.png">
 
-- 🔭 Atualmente (2024) estou no terceiro ano do ensino médio, cursando Desenvolvimento de Sistemas no Iema.
+- 🔭 Atualmente (2025) estou cursando Ciência e Tecnologia (UFMA)
 - 🌱 Especialidade em Front end, mas me aprofundando cada vez mais nos estudos de Back-End!
-- 💬 Converse comigo pelo Instagram: [@johnwesleyrvaz](https://www.instagram.com/johnwesleyrvaz/)
+- 💬 Converse comigo pelo Instagram: [@johnwesley.js](https://www.instagram.com/johnwesley.js/)
 
 <div id="effect" align="left">
   <a href="https://github.com/johnwesley14">
@@ -17,17 +18,8 @@
 <div><br>
 
 <h1>Tecnologias:</h1>
-<ul>
-  <li><strong>Html</strong></li>
-  <li><strong>Css</strong></li>
-  <li><strong>Javascript</strong></li>
-  <li><strong>C++</strong></li>
-  <li><strong>Java</strong></li>
-  <li><strong>React</strong></li>
-  <li><strong>React Native</strong></li>
-  <li><strong>NodeJS</strong></li>
-  <li><strong>Java Swing</strong></li>
-</ul>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,spring,firebase,mysql,androidstudio,vscode)](https://skillicons.dev)
    
 
   
@@ -37,7 +29,7 @@
 
 <div>
  
-  ![Snake animation](https://github.com/johnwesley14/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/johnwesley14/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
