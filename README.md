@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3500&pause=400&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Me+chamo+John+Wesley.)](https://git.io/typing-svg)
 <img align="right" alt="John-Picture" height="50" src="https://github.com/johnwesley14.png">
 
-- 🔭 Atualmente (2025) estou cursando Ciência e Tecnologia (UFMA)
+- 🔭 Atualmente (2026) estou cursando Ciência e Tecnologia (UFMA)
 - 🌱 Especialidade em Front end, mas me aprofundando cada vez mais nos estudos de Back-End!
 - 💬 Converse comigo pelo Instagram: [@johnwesley.js](https://www.instagram.com/johnwesley.js/)
 
